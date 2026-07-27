@@ -482,19 +482,32 @@ Continuing to build applications combining frontend, backend, databases and exte
 
 
 [✓] Learn Programming Fundamentals
+<br>
 [✓] Build Full Stack Applications
+<br>
 [✓] Work with REST APIs
+<br>
 [✓] Learn React.js
+<br>
 [✓] Learn Node.js & Express.js
+<br>
 [✓] Work with MongoDB
+<br>
 [✓] Solve 600+ Coding Problems
+<br>
 
 [→] Strengthen DSA
+<br>
 [→] Improve Backend Development
+<br>
 [→] Learn System Design
+<br>
 [→] Build More Production-Ready Applications
+<br>
 [→] Explore New Technologies
+<br>
 [→] Keep Improving Every Day
+<br>
 <div align="center"> <img src="./assets/anywhere-door.gif" width="200" alt="Anywhere Door"/>
 🚪 One Door Leads to Another...
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=2496ED&center=true&vCenter=true&width=700&lines=Every+bug+teaches+something+new...;Every+problem+improves+your+thinking...;Every+project+makes+you+a+better+developer...;Keep+learning.+Keep+building.+%F0%9F%9A%80"/> </div>
