@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/front_img.jpg" width="700" alt="Doraemon Banner"/>
+<!-- <img src="./assets/front_img.jpg" width="700" alt="Doraemon Banner"/> -->
 
 <h1>💙 Hi, I'm Anushree Agrawal 👩‍💻</h1>
 
